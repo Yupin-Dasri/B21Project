@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello World");
         // B21 is good at IntelliJ
+        // we are happy to see commit dialog finally
     }
 }
